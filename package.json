@@ -1,0 +1,27 @@
+{
+  "name": "create-eth-account",
+  "version": "0.0.0",
+  "description": "Generate a random Ethereum account",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukks/create-eth-account.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukks/create-eth-account/issues"
+  },
+  "homepage": "https://github.com/lukks/create-eth-account#readme",
+  "devDependencies": {
+    "brittle": "^3.3.2",
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "keccak": "^3.0.4",
+    "secp256k1": "^5.0.0"
+  }
+}
