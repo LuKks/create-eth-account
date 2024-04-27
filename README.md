@@ -6,7 +6,7 @@ Generate a random Ethereum account
 npm i create-eth-account
 ```
 
-It's very fast, and can be used in Workers for creating millions of accounts for testing.
+It's very fast, and it can be used for creating millions of accounts for testing.
 
 ## Usage
 
