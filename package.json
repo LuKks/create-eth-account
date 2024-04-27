@@ -1,6 +1,6 @@
 {
   "name": "create-eth-account",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a random Ethereum account",
   "main": "index.js",
   "scripts": {
